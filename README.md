@@ -6,7 +6,7 @@ genetic algorithms, and data visualization. This repo is a work
 in progress. Contributions toward its goals are greatly appreciated.
 Below, are general headers for the active sub-projects/goals.
 
-a) Retrieving and stablizing real-time weather data.
+a) Retrieving and stabilizing real-time weather data.
 
 b) Ambient environments: weathering via automata.
 
