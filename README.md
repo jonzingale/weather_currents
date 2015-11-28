@@ -4,13 +4,12 @@ WeatherCurrents draws on various ideas from computer science,
 including: A.I., data mining, automata, information recognition,
 genetic algorithms, and data visualization. This repo is a work
 in progress. Contributions toward its goals are greatly appreciated.
-Below, are some general headers for the sub-projects necessary for
-completion.
+Below, are general headers for the active sub-projects/goals.
 
-*) Retrieving and stablizing real-time weather data.
+a) Retrieving and stablizing real-time weather data.
 
-*) Ambient environments: weathering via automata.
+b) Ambient environments: weathering via automata.
 
-*) Distributed computation: parallelizing.
+c) Distributed computation: parallelizing.
 
-*) Color-forager design.
+d) Color-forager design.
