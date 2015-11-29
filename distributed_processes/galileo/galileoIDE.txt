@@ -1,0 +1,24 @@
+void setup() {
+  // put your setup code here, to run once:
+  //tells the system to reset all the network connections once
+  // in case you forgot to plug your ethernet in until after you powered on
+  system("/etc/init.d/networking restart");
+ 
+}
+void loop() {
+  // put your main code here, to run repeatedly: 
+system("ifconfig  > /dev/ttyGS0");
+sleep(5);
+}
+
+the router assigns a ip address to the galileo
+the sketch then runs functionally sending a ping
+or something and outputing the assigned IP
+to the IDE screen. (did you know there is a built
+in terminal interface on the IDE?)
+
+Look in that terminal (should be an icon
+thingy in the upper right hand corner). That is where
+the message is printed.
+
+ssh root@(whatever IP it suggests)
