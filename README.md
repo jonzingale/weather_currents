@@ -11,5 +11,6 @@ a) Retrieving and stabilizing real-time weather data.
 b) Ambient environments: weathering via automata.
 
 c) Distributed computation: parallelizing.
+https://github.com/jonzingale/weather_currents/tree/master/distributed_processes
 
 d) Color-forager design.
