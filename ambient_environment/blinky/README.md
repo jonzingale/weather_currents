@@ -1,4 +1,9 @@
 This directory contains various ideas regarding blinkylight games (cellular automata).
+The code is written for 'ruby processing' and as such requires both processing and
+jruby (here I am using jruby-1.7.12-complete). Git documentation regarding RubyProcessing
+can be found here: https://github.com/jashkenas/ruby-processing.
+
+
 Goals here include:
 <ul>
 <li>fine tune blinkylights to color regions.</li>
