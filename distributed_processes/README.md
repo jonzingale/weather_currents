@@ -6,4 +6,5 @@ be run on their own processors cleanly.
 <li>color foragers may only need a snapshot of the image (environment).</li>
 <li>cellular automata (CA) can be computed easily in parts.</li>
 <li>finding rules and color regions for CA which 'play nicely' with the image can be explored genetically</li>
+<li>Intel Galileo's are explored for taking a rendered image to the projector for display</li>
 </ul>
