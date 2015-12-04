@@ -23,3 +23,7 @@ Below are general headers for the active sub-projects/goals.
 </ul>
 
 <p>* check marks denote sub-projects with ANY work already underway.</p>
+
+
+Weather Currents relies on RubyProcessing which can be found here:
+https://github.com/jashkenas/ruby-processing
