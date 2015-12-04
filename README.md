@@ -4,7 +4,7 @@ WeatherCurrents draws on various ideas from computer science,
 including: A.I., data mining, automata theory, information recognition,
 genetic algorithms, and data visualization. This repo is a work
 in progress. Contributions toward its goals are greatly appreciated.
-Below, are general headers for the active sub-projects/goals.
+Below are general headers for the active sub-projects/goals.
 
 <ul>
 <li> [ ] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
