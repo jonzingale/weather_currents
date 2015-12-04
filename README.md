@@ -11,6 +11,7 @@ a) Retrieving and stabilizing real-time weather data.
 b) Ambient environments: weathering via automata.
 
 c) Distributed computation: parallelizing.
+[] <a href="/tree/master/distributed_processes">galileo</a>
 <p>
 [] <a href="https://github.com/jonzingale/weather_currents/tree/master/distributed_processes">galileo</a>
 </p>
