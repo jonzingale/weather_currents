@@ -15,5 +15,5 @@ Below, are general headers for the active sub-projects/goals.
 
 <li> <a href="/color_foragers">Color-forager design.</a></li>
 
-<li> <a href="/genetic_algorithms">Genetic Algorithms.</a><li>
+<li> <a href="/genetic_algorithms">Genetic Algorithms.</a></li>
 </ul>
