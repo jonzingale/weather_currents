@@ -10,6 +10,10 @@ Below are general headers for the active sub-projects/goals.
 <li> [ ] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
 
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
+<ul>
+<li>blinky</li><
+<li>regionals</li>
+/ul>
 
 <li> [X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
 
