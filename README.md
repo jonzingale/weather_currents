@@ -13,7 +13,7 @@ Below are general headers for the active sub-projects/goals.
 <ul>
 <li>blinky</li>
 <li>regionals</li>
-/ul>
+</ul>
 
 <li> [X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
 
