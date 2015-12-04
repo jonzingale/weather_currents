@@ -1,4 +1,4 @@
-WeatherCurrents is an algorithmic installation art project developed
+Weather Currents is an algorithmic installation art project developed
 for the 2016 Currents New Media festival in Santa Fe, New Mexico.
 WeatherCurrents draws on various ideas from computer science,
 including: A.I., data mining, automata theory, information recognition,
