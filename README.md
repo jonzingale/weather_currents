@@ -7,11 +7,13 @@ in progress. Contributions toward its goals are greatly appreciated.
 Below, are general headers for the active sub-projects/goals.
 
 <ul>
-<li> Retrieving and stabilizing real-time weather data.</li>
+<li> <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
 
-<li> Ambient environments: weathering via automata.</li>
+<li> <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 
 <li> <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
 
-<li> Color-forager design.</li>
+<li> <a href="/color_foragers">Color-forager design.</a></li>
+
+<li> <a href="/genetic_algorithms">Genetic Algorithms.</a><li>
 </ul>
