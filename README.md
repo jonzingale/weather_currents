@@ -11,7 +11,7 @@ Below, are general headers for the active sub-projects/goals.
 
 <li> Ambient environments: weathering via automata.</li>
 
-<li> Distributed computation:<a href="/distributed_processes"> parallelizing.</a></li>
+<li> <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
 
 <li> Color-forager design.</li>
 </ul>
