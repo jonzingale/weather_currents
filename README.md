@@ -6,14 +6,12 @@ genetic algorithms, and data visualization. This repo is a work
 in progress. Contributions toward its goals are greatly appreciated.
 Below, are general headers for the active sub-projects/goals.
 
-a) Retrieving and stabilizing real-time weather data.
+<ul>
+<li> Retrieving and stabilizing real-time weather data.</li>
 
-b) Ambient environments: weathering via automata.
+<li> Ambient environments: weathering via automata.</li>
 
-c) Distributed computation: parallelizing.
-[] <a href="/distributed_processes">galileo</a>
-<p>
-[] <a href="https://github.com/jonzingale/weather_currents/tree/master/distributed_processes">galileo</a>
-</p>
+<li> Distributed computation:<a href="/distributed_processes"> parallelizing.</a></li>
 
-d) Color-forager design.
+<li> Color-forager design.</li>
+</ul>
