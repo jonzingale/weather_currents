@@ -11,7 +11,7 @@ Below are general headers for the active sub-projects/goals.
 
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
-<li>blinky</li>
+<li>blinkylights</li>
 <li>regionals</li>
 </ul>
 
