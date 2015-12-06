@@ -24,6 +24,11 @@ Below are general headers for the active sub-projects/goals.
 
 <p>* check marks denote sub-projects with ANY work already underway.</p>
 
-
+<p>
 Weather Currents relies on RubyProcessing which can be found here:
 https://github.com/jashkenas/ruby-processing
+</p>
+<p>
+A pretty good tutorial of getting started with ruby processing:
+https://blog.engineyard.com/2015/getting-started-with-ruby-processing
+</p>
