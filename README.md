@@ -25,17 +25,6 @@ Below are general headers for the active sub-projects/goals.
 <p>* check marks denote sub-projects with ANY work already underway.</p>
 
 <p>
-Weather Currents relies on RubyProcessing which can be found here:
-https://github.com/jashkenas/ruby-processing
-</p>
-<p>
-A pretty good tutorial of getting started with ruby processing:
-<a href="https://blog.engineyard.com/2015/getting-started-with-ruby-processing"> getting started with ruby processing</a>
+See the <a href="https://github.com/jonzingale/weather_currents/wiki">wiki</a> above for system specifications
 </p>
 
-<span>some important gem versions include:</span>
-<ul>
-<li>mechanize (2.7.3)</li>
-<li>nokogiri (1.6.6.2 java)</li>
-<li>ruby-processing (2.6.7)</li>
-</ul>
