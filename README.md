@@ -28,7 +28,7 @@ Below are general headers for the active sub-projects/goals.
 <li> [ ] <a href="/genetic_algorithms">Genetic Algorithms.</a></li>
 </ul>
 
-<p>* check marks denote sub-projects with ANY work already underway.</p>
+<p>* check marks denote sub-projects with ANY work already migrated to this repo.</p>
 
 <p>
 See the <a href="https://github.com/jonzingale/weather_currents/wiki">wiki</a> above for system specifications
