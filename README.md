@@ -30,5 +30,5 @@ https://github.com/jashkenas/ruby-processing
 </p>
 <p>
 A pretty good tutorial of getting started with ruby processing:
-https://blog.engineyard.com/2015/getting-started-with-ruby-processing
+<a href="https://blog.engineyard.com/2015/getting-started-with-ruby-processing"> getting started with ruby processing</a>
 </p>
