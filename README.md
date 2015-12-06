@@ -11,9 +11,9 @@ Below are general headers for the active sub-projects/goals.
 
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
-<li>[X]blinkylights</li>
-<li>[]regionals</li>
-<li>[]color sampling</li>
+<li>[X] blinkylights</li>
+<li>[ ] regionals</li>
+<li>[ ] color sampling</li>
 </ul>
 
 <li> [X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
