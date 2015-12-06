@@ -7,7 +7,12 @@ in progress. Contributions toward its goals are greatly appreciated.
 Below are general headers for the active sub-projects/goals.
 
 <ul>
-<li> [ ] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
+<li> [X] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
+<ul>
+<li>[X] weather scraping and visualization</li>
+<li>[ ] API: NWS?</li>
+<li>[ ] stabilize with rescue</li>
+</ul>
 
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
