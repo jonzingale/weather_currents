@@ -32,3 +32,8 @@ https://github.com/jashkenas/ruby-processing
 A pretty good tutorial of getting started with ruby processing:
 <a href="https://blog.engineyard.com/2015/getting-started-with-ruby-processing"> getting started with ruby processing</a>
 </p>
+<ul>some important gem versions include:<br>
+<li>mechanize (2.7.3)</li>
+<li>nokogiri (1.6.6.2 java)</li>
+<li>ruby-processing (2.6.7)</li>
+</ul>
