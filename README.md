@@ -10,7 +10,7 @@ Below are general headers for the active sub-projects/goals.
 <li> [X] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
 <ul>
 <li>[X] weather scraping and visualization</li>
-<li>[ ] API: NWS? -  curl 'http://w1.weather.gov/xml/current_obs/KSAF.xml'</li>
+<li>[X] API: NWS? -  curl 'http://w1.weather.gov/xml/current_obs/KSAF.xml'</li>
 <li>[ ] stabilize with rescue</li>
 </ul>
 
