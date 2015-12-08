@@ -6,26 +6,30 @@ genetic algorithms, and data visualization. This repo is a work
 in progress. Contributions toward its goals are greatly appreciated.
 Below are general headers for the active sub-projects/goals.
 
-<ul>
-<li> [X] <a href="/weather">Retrieving and stabilizing real-time weather data.</a></li>
-<ul>
-<li>[X] weather scraping and visualization</li>
-<li>[X] API: NWS? -  curl 'http://w1.weather.gov/xml/current_obs/KSAF.xml'</li>
-<li>[ ] stabilize with rescue</li>
-</ul>
-
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
 <li>[X] blinkylights</li>
 <li>[ ] regionals</li>
 <li>[ ] color sampling</li>
+
+<li>[X] weather
+<ul>
+<li>[X] curl NDFD database</li>
+<li>[X] visualization</li>
+<li>[ ] stabilize with rescue</li>
+<li>[ ] <a href="/genetic_algorithms">Genetic Algorithms</a></li>
+</ul>
+</li>
 </ul>
 
-<li> [X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
+<li>[X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
+<ul>
+<li>[X] Is is efficient to look up a .jpg via an Intel Galileo?  </li>
+</ul>
+
 
 <li> [ ] <a href="/color_foragers">Color-forager design.</a></li>
 
-<li> [ ] <a href="/genetic_algorithms">Genetic Algorithms.</a></li>
 </ul>
 
 <p>* check marks denote sub-projects with ANY work already migrated to this repo.</p>
