@@ -8,22 +8,29 @@ Below are general headers for the active sub-projects/goals.
 
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
-<li>[X] blinkylights</li>
+<li>[X] BlinkyLights</li>
 <li>[ ] regionals</li>
 <li>[ ] color sampling</li>
 
-<li>[X] weather
+<li>[X] Weather
 <ul>
 <li>[X] curl NDFD database</li>
 <li>[X] visualization</li>
 <li>[ ] stabilize with rescue</li>
-<li>[ ] <a href="/genetic_algorithms">Genetic Algorithms</a></li>
+<li>[ ] Genetic Algorithms</li>
 </ul>
 </li>
 </ul>
 
-<li>[X] <a href="/distributed_processes">Distributed computation: parallelizing.</a></li>
+<li>[X] Distributed Computation</li>
 <ul>
+<li>[ ] Parallelize crawlers and automata
+  <ul>
+    <li>[ ] crawlers to their own processor</li>
+    <li>[ ] compile regionally computed automata</li>
+    <li>[ ] calculate color_spaces for deciding automata rules</li>
+    <li>[X] send a .jpg to an Intel Galileo for display</li>
+  </ul>
 <li>[X] Is is efficient to look up a .jpg via an Intel Galileo?  </li>
 </ul>
 
