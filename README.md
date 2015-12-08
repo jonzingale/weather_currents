@@ -35,7 +35,7 @@ Below are general headers for the active sub-projects/goals.
 </ul>
 
 
-<li> [ ] <a href="/color_foragers">Color-forager design.</a></li>
+<li> [ ] Color-forager design</li>
 
 </ul>
 
