@@ -5,6 +5,12 @@ from the national weather service api various<br>
 data about the current Santa Fe weather.<br>
 The NWS updates their api 15 before the hour.<br>
 </p>
+
+```
+rp5 run heat_map_usa.rb
+rp5 run nws_api.rb
+```
+
 ###Todo:###
 <ul>
 <li>make the class accessible</li>
