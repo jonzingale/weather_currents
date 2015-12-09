@@ -37,8 +37,8 @@ Below are general headers for the active sub-projects/goals.
 
 <li> [X] Color-forager design</li>
 <ul>
-<li>color_sampler uses crawler class</li>
-<li>color_sampler_2 modifies environment</li>
+<li>[X] color_sampler uses crawler class</li>
+<li>[X] color_sampler_2 modifies environment</li>
 </ul>
 </ul>
 
