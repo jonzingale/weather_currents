@@ -34,8 +34,7 @@ Below are general headers for the active sub-projects/goals.
 <li>[X] Is is efficient to look up a .jpg via an Intel Galileo?  </li>
 </ul>
 
-
-<li> [X] Color-forager design</li>
+<li> [X] <a href="/color_forager">Color-forager design</a></li>
 <ul>
 <li>[X] color_sampler uses crawler class</li>
 <li>[X] color_sampler_2 modifies environment</li>
