@@ -1,7 +1,6 @@
-<p>
-weather_currents/color_foragers is a directory for developing<br>
-color crawlers for the project.
-</p>
+### Color Foragers ###
+
+weather_currents/color_foragers is a directory<br>for developing color crawlers for the project.
 
 Some ideas to keep in mind include?
 <ul>
