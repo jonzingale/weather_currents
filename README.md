@@ -12,8 +12,6 @@ Below are general headers for the active sub-projects/goals.
 <li>[ ] color sampling</li>
 <li>[ ] regionals</li>
 <li>[ ] Genetic Algorithms</li>
-</ul>
-
 <li>[X] Weather
 <ul>
 <li>[X] curl NDFD database</li>
