@@ -10,4 +10,5 @@ The NWS updates their api 15 before the hour.<br>
 <li>make the class accessible</li>
 <li>rescue when all keys may not be provided</li>
 <li>rescue when network requests may fail</li>
+<li>set the scrape period reliably</li>
 </ul>
