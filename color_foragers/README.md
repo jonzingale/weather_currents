@@ -13,9 +13,10 @@ Some ideas to keep in mind include?
 <p>
 Within the class_based_foragers directory is a pair of files:<br>
 <ul><li>color_crawlers.rb</li><li>color_sampler.rb</li></ul>
-The first exhibits a class of color crawlers, the second instantiates the class.<br>
-To run the code in rubyProcessing 
-```
+The first exhibits a class of color crawlers, the second instantiates the class.</p>
+
+To run the code in rubyProcessing
+```bash
 rp5 run color_sampler.rb
 ```
-</p>
+
