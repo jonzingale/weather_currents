@@ -22,7 +22,7 @@ Below are general headers for the active sub-projects/goals.
 </li>
 </ul>
 
-<li>[X] Distributed Computation</li>
+<li>[X] <a href="/distributed_processes">Distributed Computation</a></li>
 <ul>
 <li>[ ] Parallelize crawlers and automata
   <ul>
