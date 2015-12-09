@@ -9,7 +9,7 @@ Below are general headers for the active sub-projects/goals.
 <li> [X] <a href="/ambient_environment">Ambient environments: weathering via automata.</a></li>
 <ul>
 <li>[X] BlinkyLights</li>
-<li>[X] color sampling</li>
+<li>[ ] color sampling</li>
 <li>[ ] regionals</li>
 
 <li>[X] Weather
@@ -35,8 +35,11 @@ Below are general headers for the active sub-projects/goals.
 </ul>
 
 
-<li> [ ] Color-forager design</li>
-
+<li> [X] Color-forager design</li>
+<ul>
+<li>color_sampler uses crawler class</li>
+<li>color_sampler_2 modifies environment</li>
+</ul>
 </ul>
 
 <p>* check marks denote sub-projects with ANY work already migrated to this repo.</p>
