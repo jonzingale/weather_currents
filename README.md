@@ -11,13 +11,14 @@ Below are general headers for the active sub-projects/goals.
 <li>[X] BlinkyLights</li>
 <li>[ ] color sampling</li>
 <li>[ ] regionals</li>
+<li>[ ] Genetic Algorithms</li>
+</ul>
 
 <li>[X] Weather
 <ul>
 <li>[X] curl NDFD database</li>
 <li>[X] visualization</li>
 <li>[ ] stabilize with rescue</li>
-<li>[ ] Genetic Algorithms</li>
 </ul>
 </li>
 </ul>
