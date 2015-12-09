@@ -4,7 +4,7 @@
 Here we hope to find aesthetically reasonable<br>
 methods of defining computational regions for<br>
 blinkylights over images. The goal being to have<br>
-different rules affect color regions related to<br>
+different rules effect color regions related to<br>
 'the sky' versus 'the mountain'.<br><br>
 
 One strategy includes coarsening the color space<br>
