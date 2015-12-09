@@ -1,9 +1,11 @@
-The file nws_api.rb is a ruby file which draws
-from the national weather service api various
-data about the current Santa Fe weather. The NWS
-updates their info once an hour.
-
-todo:
+## Weather Service API documentation ##
+<p>
+The file nws_api.rb is a ruby file which draws<br>
+from the national weather service api various<br>
+data about the current Santa Fe weather. The NWS<br>
+updates their info once an hour.<br>
+</p>
+###Todo:###
 <ul>
 <li>make the class accessible</li>
 <li>rescue when all keys may not be provided</li>
