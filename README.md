@@ -22,7 +22,7 @@ Below are general headers for the active sub-projects/goals.
 </li>
 </ul>
 
-<li>[X] Distributed Computation</li>
+<li>[X] <a href="/distributed_processes">Distributed Computation</a></li>
 <ul>
 <li>[ ] Parallelize crawlers and automata
   <ul>
@@ -36,8 +36,7 @@ Below are general headers for the active sub-projects/goals.
 
 <li> [X] <a href="/color_foragers">Color-forager design</a></li>
 <ul>
-<li>[X] color_sampler uses crawler class</li>
-<li>[X] color_sampler_2 modifies environment</li>
+<li>[X] color_samplers and color_crawler class</li>
 </ul>
 </ul>
 
