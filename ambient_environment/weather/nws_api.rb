@@ -17,9 +17,21 @@
 			xml_data
 		end
 
+		# protect against missing keys!
+		# windchill for instance.
+		def derive_keys(response)
+			# response.keys.each{|k| puts "#{k} = response['#{k}']" }
+			keys = response.keys
+
+		end
+
+		def set_data # if key is nil, hold current value
+
+		end
+
 		def xml_data
       response = XmlSimple.xml_in(page.body.to_s)
-			# response.keys.each{|k| puts "#{k} = response['#{k}']" }
+      # derive_keys(response)
 
       temp = response['temp_f'][0].to_f
       wind_mph = response['wind_mph'][0].to_f
@@ -28,7 +40,6 @@
       latitude = response['latitude'][0].to_f
       longitude = response['longitude'][0].to_f
 
-      # protect against missing keys!
       # windchill_f = response['windchill_f'][0].to_f
       station_id = response['station_id'][0].to_f
       dewpoint_f = response['dewpoint_f'][0].to_f
