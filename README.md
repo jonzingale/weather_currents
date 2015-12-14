@@ -10,7 +10,7 @@ Below are general headers for the active sub-projects/goals.
 <ul>
 <li>[X] BlinkyLights</li>
 <li>[ ] color sampling</li>
-<li>[ ] regionals</li>
+<li>[ ] regionalization</li>
 <li>[ ] genetic algorithms</li>
 <li>[X] Weather
 <ul>
