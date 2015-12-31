@@ -9,15 +9,15 @@
 	def setup
 		size(displayWidth, displayHeight)
     frame_rate 2
-
-    # make sure these exist
-		# @image = loadImage Test2
-		# @overlay = loadImage Test1
-
-		# PIobject preserving alpha value!
-		# @pg = createGraphics(width,height)
+    
+    # uncomment to generate images
 		# draw_idea
 
+		# uncomment to see generated images.
+		loadImages
+	end
+
+	def loadImages
 		@circle = loadImage Ellipse
 		@star = loadImage Star
 		@rect = loadImage Rectangle
@@ -32,18 +32,25 @@
   end
 
 	def draw_idea
+    # make sure these exist
+		@image = loadImage Test2
+		@overlay = loadImage Test1
+
+		PIobject preserving alpha value!
+		@pg = createGraphics(width,height)
+
 	  @pg.beginDraw
 	  @pg.colorMode(HSB,360,100,100,100)
 	  @pg.background(0,0,0,0)
 	  @pg.no_stroke
 
-  	@pg.fill(200,70,100,60)
+  	@pg.fill(200,70,100,60) # star
   	rootsUnity(5).each{|s,c| @pg.ellipse(s*150+600,c*150+300,300,300)}
 
-	  @pg.fill(30,100,100,60)
+	  @pg.fill(30,100,100,60) # ellipse
 	  @pg.ellipse(450,400,400,500)
 
-	  @pg.fill(20,100,100,60)
+	  @pg.fill(20,100,100,60) # rectangle
 	  @pg.rect(200,400,600,500,0,0,20,100)
 
 	  @pg.endDraw
@@ -56,7 +63,7 @@
 	end
 
 	def draw
-		sleep(1)
-		# image(@image,0,0)
-		# image(@overlay,0,0)
+		# sleep(1)
+		image(@image,0,0)
+		image(@overlay,0,0)
 	end
