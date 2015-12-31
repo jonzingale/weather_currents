@@ -33,6 +33,20 @@
 		@i.nil? ? (sleep 2 ; @pg.save(Test1)) : @i = true
 	end
 
+
+# what can be done to pass this to images?
+	def pretty_print(board)
+		e_size = 5
+		board.each_with_index do |row, c_dex|
+			row.each_with_index do |c, r_dex|
+				params = [r_dex,c_dex].map{|i|i*e_size+20} + [e_size]*2
+				rgb = (1..3).map{|i| c*(rand 255)}
+				fill(*rgb) ; ellipse(*params)
+			end
+		end
+	end
+
+
 	def draw
 		image(@image,0,0)
 		image(@overlay,0,0)
