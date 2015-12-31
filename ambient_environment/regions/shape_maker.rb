@@ -36,7 +36,7 @@
 		@image = loadImage Test2
 		@overlay = loadImage Test1
 
-		PIobject preserving alpha value!
+		# PIobject preserving alpha value!
 		@pg = createGraphics(width,height)
 
 	  @pg.beginDraw
