@@ -17,14 +17,14 @@
 	end
 
 	def draw_idea
-	  @pg.beginDraw()
+	  @pg.beginDraw
 	  @pg.colorMode(HSB,360,100,100,100)
 	  @pg.fill(200,100,100,100)
 	  @pg.background(0,0,0,0)
 
 	  @pg.text_font(create_font("SanSerif",100))
 	  @pg.text('This is the Shit!!',400,300)
-	  @pg.endDraw()
+	  @pg.endDraw
 
 	  archive
 	end
