@@ -7,14 +7,15 @@
 	Star = "#{BasePath}/region_images/shapes/star.png"
 
 	def setup
-		size(displayWidth, displayHeight)
+		# size(displayWidth, displayHeight)
+		size(610,610) ; @w, @h = [width/2,height/2]
     frame_rate 2
     
     # uncomment to generate images
-		# draw_idea
+		draw_idea
 
 		# uncomment to see generated images.
-		loadImages
+		# loadImages
 	end
 
 	def loadImages
@@ -33,8 +34,8 @@
 
 	def draw_idea
     # make sure these exist
-		@image = loadImage Test2
-		@overlay = loadImage Test1
+		# @image = loadImage Test2
+		# @overlay = loadImage Test1
 
 		# PIobject preserving alpha value!
 		@pg = createGraphics(width,height)
@@ -45,13 +46,13 @@
 	  @pg.no_stroke
 
   	@pg.fill(200,70,100,60) # star
-  	rootsUnity(5).each{|s,c| @pg.ellipse(s*150+600,c*150+300,300,300)}
+  	rootsUnity(5).each{|s,c| @pg.ellipse(s*150+@w,c*150+@h,300,300)}
 
-	  @pg.fill(30,100,100,60) # ellipse
-	  @pg.ellipse(450,400,400,500)
+	  # @pg.fill(30,100,100,60) # ellipse
+	  # @pg.ellipse(450,400,400,500)
 
-	  @pg.fill(20,100,100,60) # rectangle
-	  @pg.rect(200,400,600,500,0,0,20,100)
+	  # @pg.fill(20,100,100,60) # rectangle
+	  # @pg.rect(200,400,600,500,0,0,20,100)
 
 	  @pg.endDraw
 
@@ -59,11 +60,15 @@
 	end
 
 	def archive	# save with transparency.
-		@i.nil? ? (sleep 2 ; @pg.save(Star) ; @i = true) : nil 
+		# @i.nil? ? (sleep 2 ; @pg.save(Star) ; @i = true) : nil
+		star_path = "/Users/Jon/Desktop/star.png"
+		@i.nil? ? (sleep 2 ; @pg.save(star_path) ; @i = true) : nil
 	end
 
 	def draw
-		# sleep(1)
-		image(@image,0,0)
-		image(@overlay,0,0)
+		star_image = loadImage "/Users/Jon/Desktop/star.png"
+		sleep(1)
+		image(star_image, 0, 0)
+		# image(@image,0,0)
+		# image(@overlay,0,0)
 	end
